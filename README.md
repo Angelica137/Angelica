@@ -1,6 +1,8 @@
 # Angelica
 
-
+## About me
+- I am currenlty working on - My awesome travel app
+- Im currenlty learning - FAC31
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angelicaberistain/) 
